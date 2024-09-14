@@ -5,6 +5,7 @@
 ---
 
 简体中文 | [English](./README.en-us.md)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0739aa75-e57f-4048-b2df-a8d0557d11bc/deploy-status)](https://app.netlify.com/sites/lucent-capybara-94b658/deploys)
 
 ## ✨ 特性
 
