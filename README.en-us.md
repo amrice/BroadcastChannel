@@ -4,7 +4,7 @@
 
 ---
 
-English | [简体中文](./README.md)
+[简体中文](./README.md) | English
 
 ## ✨ Features
 
